@@ -1,6 +1,6 @@
 # Hello, my name is Alexander Tsyplenkov!
 
-I'm currently studying at Lomonosov Moscow State University, Faculty of Geography, Department of Cartography and Geoinformatics. Back at school I had understood I was interested in combining my interests in geography and programming. For this reason, I decided to have a try at learning geoinformatics at Lomonosov MSU where I've been studying for 3 years by now. To date, I am writing a coursework on the topic "Smoothing filtering of digital elevation models for the calculation of morphometric values"
+I'm currently studying at Lomonosov Moscow State University, Faculty of Geography, Department of Cartography and Geoinformatics. Back at school I had understood I was interested in combining my interests in geography and programming. For this reason, I decided to have a try at learning geoinformatics at Lomonosov MSU where I've been studying for 3 years by now. To date, I am writing a coursework on the topic "DEMs smoothing filtering for the morphometric values calculation"
 
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [altsyplenkov@gmail.com](mailto:altsyplenkov@gmail.com)
