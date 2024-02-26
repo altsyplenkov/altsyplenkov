@@ -16,7 +16,7 @@ I'm currently studying at **Lomonosov Moscow State University, Faculty of Geogra
 ![Static Badge](https://img.shields.io/badge/PostGIS-%2347765e?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-#### Software
+#### GIS Software
 ![Static Badge](https://img.shields.io/badge/QGIS-%23589632?style=for-the-badge&logo=QGIS&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/ArcGIS-%230a6aca?style=for-the-badge&logo=ArcGIS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-%234285F4?style=for-the-badge&logo=GoogleEarthEngine&logoColor=white)
@@ -26,6 +26,12 @@ I'm currently studying at **Lomonosov Moscow State University, Faculty of Geogra
 ![Static Badge](https://img.shields.io/badge/Agisoft_Metashape-%2301aab2?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/CloudCompare-%23005c94?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/SNAP-%23315458?style=for-the-badge)
+
+#### Other
+![Static Badge](https://img.shields.io/badge/GIT-%23F1502F?style=for-the-badge&logo=GIT&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Zotero-%23B22222?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Markdown-%23696969?style=for-the-badge&logo=Markdown&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LaTeX-%23808080?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ### Socials
 <a href="https://github.com/altsyplenkov" target="_blank">
