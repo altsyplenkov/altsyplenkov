@@ -26,6 +26,7 @@ I'm currently studying at **Lomonosov Moscow State University, Faculty of Geogra
 ![Static Badge](https://img.shields.io/badge/Agisoft_Metashape-%2301aab2?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/CloudCompare-%23005c94?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/SNAP-%23315458?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Surfer-%23B65FCF?style=for-the-badge&logo=Surfer&logoColor=white)
 
 #### Miscellaneous
 ![Static Badge](https://img.shields.io/badge/GIT-%23F1502F?style=for-the-badge&logo=GIT&logoColor=white)
